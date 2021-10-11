@@ -1,3 +1,3 @@
 # Python_stuff
 
-Collected different learnings and testings in python
+Collected different projects with the focus to get a better understanding of python and also math/statistics
