@@ -94,3 +94,5 @@ geckodriver.log
 .history
 .vscode
 
+# mp4
+.mp4
